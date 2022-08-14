@@ -1,5 +1,5 @@
 {
-  "name": "onboarding-my-plugin",
+  "name": "ds-plugin-tut",
   "version": "1.0.0",
   "description": "Data source plugin tutorial.",
   "scripts": {
